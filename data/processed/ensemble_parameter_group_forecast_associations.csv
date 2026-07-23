@@ -1,0 +1,129 @@
+scenario,parameter_group,forecast,max_abs_rho,median_abs_rho,n_parameters
+S0_BASE,upper pilot points,fcst_max_receptor_dd,0.3868159586576025,0.0619828355224707,15
+S0_BASE,upper pilot points,fcst_max_compliance_dd,0.2154787904887877,0.0764403703589775,15
+S0_BASE,upper pilot points,fcst_stage4_mean_inflow,0.1970223630379279,0.0840690270386662,15
+S0_BASE,upper pilot points,fcst_recovery_years,0.3442051553196274,0.1251129891305397,15
+S0_BASE,main pilot points,fcst_max_receptor_dd,0.3412285828539789,0.0934202836137685,35
+S0_BASE,main pilot points,fcst_max_compliance_dd,0.2413177889199914,0.0971115691039404,35
+S0_BASE,main pilot points,fcst_stage4_mean_inflow,0.2565751022793688,0.0899750838229413,35
+S0_BASE,main pilot points,fcst_recovery_years,0.4257308075493788,0.161478565499165,35
+S0_BASE,lower pilot points,fcst_max_receptor_dd,0.1955458488418592,0.0558922144636869,15
+S0_BASE,lower pilot points,fcst_max_compliance_dd,0.2598357377956874,0.1635547079270356,15
+S0_BASE,lower pilot points,fcst_stage4_mean_inflow,0.2297517610507859,0.1029561044633793,15
+S0_BASE,lower pilot points,fcst_recovery_years,0.2278224722546359,0.0480166833605149,15
+S0_BASE,recharge,fcst_max_receptor_dd,0.083084684241287,0.083084684241287,1
+S0_BASE,recharge,fcst_max_compliance_dd,0.0104894029345719,0.0104894029345719,1
+S0_BASE,recharge,fcst_stage4_mean_inflow,0.0455566150912055,0.0455566150912055,1
+S0_BASE,recharge,fcst_recovery_years,0.2518629106483697,0.2518629106483697,1
+S0_BASE,regional support,fcst_max_receptor_dd,0.0168876311175366,0.0168876311175366,1
+S0_BASE,regional support,fcst_max_compliance_dd,0.0101817958103909,0.0101817958103909,1
+S0_BASE,regional support,fcst_stage4_mean_inflow,0.1052323971823187,0.1052323971823187,1
+S0_BASE,regional support,fcst_recovery_years,0.0196752853609596,0.0196752853609596,1
+S0_BASE,receptor conductance,fcst_max_receptor_dd,0.1224583961364545,0.1224583961364545,1
+S0_BASE,receptor conductance,fcst_max_compliance_dd,0.0819157771693992,0.0819157771693992,1
+S0_BASE,receptor conductance,fcst_stage4_mean_inflow,0.1674920791165523,0.1674920791165523,1
+S0_BASE,receptor conductance,fcst_recovery_years,0.2962847620995413,0.2962847620995413,1
+S0_BASE,palaeochannel multiplier,fcst_max_receptor_dd,0.0016918391829954,0.0016918391829954,1
+S0_BASE,palaeochannel multiplier,fcst_max_compliance_dd,0.1892706635085669,0.1892706635085669,1
+S0_BASE,palaeochannel multiplier,fcst_stage4_mean_inflow,0.0151035097972869,0.0151035097972869,1
+S0_BASE,palaeochannel multiplier,fcst_recovery_years,0.1278091130625472,0.1278091130625472,1
+S0_BASE,backfill conductivity,fcst_max_receptor_dd,0.0089513673136669,0.0089513673136669,1
+S0_BASE,backfill conductivity,fcst_max_compliance_dd,0.0977267833523024,0.0977267833523024,1
+S0_BASE,backfill conductivity,fcst_stage4_mean_inflow,0.066412378110677,0.066412378110677,1
+S0_BASE,backfill conductivity,fcst_recovery_years,0.0065798262626374,0.0065798262626374,1
+S2_CONN,upper pilot points,fcst_max_receptor_dd,0.4255388992231098,0.0852390852390852,15
+S2_CONN,upper pilot points,fcst_max_compliance_dd,0.2080096290622606,0.0926797242586716,15
+S2_CONN,upper pilot points,fcst_stage4_mean_inflow,0.1666484298063245,0.0465039938724149,15
+S2_CONN,upper pilot points,fcst_recovery_years,0.2126090300728822,0.045147746364339,15
+S2_CONN,main pilot points,fcst_max_receptor_dd,0.2353649195754459,0.0782361308677098,35
+S2_CONN,main pilot points,fcst_max_compliance_dd,0.385709596235912,0.1014334172228909,35
+S2_CONN,main pilot points,fcst_stage4_mean_inflow,0.2929204508151876,0.0640113798008534,35
+S2_CONN,main pilot points,fcst_recovery_years,0.4625340545897589,0.1774813192536898,35
+S2_CONN,lower pilot points,fcst_max_receptor_dd,0.1379800853485064,0.0769230769230769,15
+S2_CONN,lower pilot points,fcst_max_compliance_dd,0.2014443593390961,0.0572272677535835,15
+S2_CONN,lower pilot points,fcst_stage4_mean_inflow,0.3395338658496553,0.0898347740453003,15
+S2_CONN,lower pilot points,fcst_recovery_years,0.2779120203498726,0.1607812600117787,15
+S2_CONN,recharge,fcst_max_receptor_dd,0.1764963343910712,0.1764963343910712,1
+S2_CONN,recharge,fcst_max_compliance_dd,0.0968377284166757,0.0968377284166757,1
+S2_CONN,recharge,fcst_stage4_mean_inflow,0.057008425429478,0.057008425429478,1
+S2_CONN,recharge,fcst_recovery_years,0.2139911039411783,0.2139911039411783,1
+S2_CONN,regional support,fcst_max_receptor_dd,0.0233067075172338,0.0233067075172338,1
+S2_CONN,regional support,fcst_max_compliance_dd,0.0003282634861582,0.0003282634861582,1
+S2_CONN,regional support,fcst_stage4_mean_inflow,0.0119269066637487,0.0119269066637487,1
+S2_CONN,regional support,fcst_recovery_years,0.0043765672496042,0.0043765672496042,1
+S2_CONN,receptor conductance,fcst_max_receptor_dd,0.1565816828974723,0.1565816828974723,1
+S2_CONN,receptor conductance,fcst_max_compliance_dd,0.0228690228690228,0.0228690228690228,1
+S2_CONN,receptor conductance,fcst_stage4_mean_inflow,0.0554765291607396,0.0554765291607396,1
+S2_CONN,receptor conductance,fcst_recovery_years,0.0847671972554936,0.0847671972554936,1
+S2_CONN,palaeochannel multiplier,fcst_max_receptor_dd,0.0712331764963343,0.0712331764963343,1
+S2_CONN,palaeochannel multiplier,fcst_max_compliance_dd,0.1257249151985994,0.1257249151985994,1
+S2_CONN,palaeochannel multiplier,fcst_stage4_mean_inflow,0.1384177699967173,0.1384177699967173,1
+S2_CONN,palaeochannel multiplier,fcst_recovery_years,0.254071246121765,0.254071246121765,1
+S2_CONN,backfill conductivity,fcst_max_receptor_dd,0.1244118612539665,0.1244118612539665,1
+S2_CONN,backfill conductivity,fcst_max_compliance_dd,0.0480358901411532,0.0480358901411532,1
+S2_CONN,backfill conductivity,fcst_stage4_mean_inflow,0.1044972097603676,0.1044972097603676,1
+S2_CONN,backfill conductivity,fcst_recovery_years,0.0639209164086942,0.0639209164086942,1
+S3_BUFF,upper pilot points,fcst_max_receptor_dd,0.3404153898535921,0.132448076268301,15
+S3_BUFF,upper pilot points,fcst_max_compliance_dd,0.127545114061968,0.0678753830439223,15
+S3_BUFF,upper pilot points,fcst_stage4_mean_inflow,0.2487231869254341,0.0427987742594484,15
+S3_BUFF,upper pilot points,fcst_recovery_years,0.2833037149870631,0.0846675497090907,15
+S3_BUFF,main pilot points,fcst_max_receptor_dd,0.3268300987402111,0.0695607763023493,35
+S3_BUFF,main pilot points,fcst_max_compliance_dd,0.3024855294518216,0.0608103506979911,35
+S3_BUFF,main pilot points,fcst_stage4_mean_inflow,0.244875723527409,0.097191011235955,35
+S3_BUFF,main pilot points,fcst_recovery_years,0.2734937799320716,0.114603729474454,35
+S3_BUFF,lower pilot points,fcst_max_receptor_dd,0.229792305073204,0.1565032345931222,15
+S3_BUFF,lower pilot points,fcst_max_compliance_dd,0.2351889683350357,0.0970548178413347,15
+S3_BUFF,lower pilot points,fcst_stage4_mean_inflow,0.2898025195778005,0.1323118828736806,15
+S3_BUFF,lower pilot points,fcst_recovery_years,0.2885133655368266,0.0821270940868007,15
+S3_BUFF,recharge,fcst_max_receptor_dd,0.0221484508001361,0.0221484508001361,1
+S3_BUFF,recharge,fcst_max_compliance_dd,0.2592611508341845,0.2592611508341845,1
+S3_BUFF,recharge,fcst_stage4_mean_inflow,0.0113040517534899,0.0113040517534899,1
+S3_BUFF,recharge,fcst_recovery_years,0.2753047128249877,0.2753047128249877,1
+S3_BUFF,regional support,fcst_max_receptor_dd,0.0803030303030303,0.0803030303030303,1
+S3_BUFF,regional support,fcst_max_compliance_dd,0.0949948927477017,0.0949948927477017,1
+S3_BUFF,regional support,fcst_stage4_mean_inflow,0.0895641811372148,0.0895641811372148,1
+S3_BUFF,regional support,fcst_recovery_years,0.172047207447383,0.172047207447383,1
+S3_BUFF,receptor conductance,fcst_max_receptor_dd,0.4417092271024856,0.4417092271024856,1
+S3_BUFF,receptor conductance,fcst_max_compliance_dd,0.0276983316309159,0.0276983316309159,1
+S3_BUFF,receptor conductance,fcst_stage4_mean_inflow,0.0052264215185563,0.0052264215185563,1
+S3_BUFF,receptor conductance,fcst_recovery_years,0.0479768477317605,0.0479768477317605,1
+S3_BUFF,palaeochannel multiplier,fcst_max_receptor_dd,0.0735784814436499,0.0735784814436499,1
+S3_BUFF,palaeochannel multiplier,fcst_max_compliance_dd,0.0975825672454886,0.0975825672454886,1
+S3_BUFF,palaeochannel multiplier,fcst_stage4_mean_inflow,0.050595846101464,0.050595846101464,1
+S3_BUFF,palaeochannel multiplier,fcst_recovery_years,0.1422397669872033,0.1422397669872033,1
+S3_BUFF,backfill conductivity,fcst_max_receptor_dd,0.0880149812734082,0.0880149812734082,1
+S3_BUFF,backfill conductivity,fcst_max_compliance_dd,0.0519237316990126,0.0519237316990126,1
+S3_BUFF,backfill conductivity,fcst_stage4_mean_inflow,0.1724378617637045,0.1724378617637045,1
+S3_BUFF,backfill conductivity,fcst_recovery_years,0.1745790804493274,0.1745790804493274,1
+S6_UPRISK,upper pilot points,fcst_max_receptor_dd,0.2460902682116522,0.0590713880560732,15
+S6_UPRISK,upper pilot points,fcst_max_compliance_dd,0.3306863301191152,0.1624665748318612,15
+S6_UPRISK,upper pilot points,fcst_stage4_mean_inflow,0.1986062717770034,0.0662020905923344,15
+S6_UPRISK,upper pilot points,fcst_recovery_years,0.2943011841076766,0.1591318902600567,15
+S6_UPRISK,main pilot points,fcst_max_receptor_dd,0.2199983793857872,0.0707398103881371,35
+S6_UPRISK,main pilot points,fcst_max_compliance_dd,0.3421926910299003,0.1049347702779353,35
+S6_UPRISK,main pilot points,fcst_stage4_mean_inflow,0.2535450935904708,0.0961834535288874,35
+S6_UPRISK,main pilot points,fcst_recovery_years,0.3753015100088719,0.138291181408395,35
+S6_UPRISK,lower pilot points,fcst_max_receptor_dd,0.1966615347216595,0.0705777489668584,15
+S6_UPRISK,lower pilot points,fcst_max_compliance_dd,0.2575966291224374,0.1008832347459687,15
+S6_UPRISK,lower pilot points,fcst_stage4_mean_inflow,0.3397617697107203,0.1495016611295681,15
+S6_UPRISK,lower pilot points,fcst_recovery_years,0.3196137859518001,0.1958351629340359,15
+S6_UPRISK,recharge,fcst_max_receptor_dd,0.0109391459363098,0.0109391459363098,1
+S6_UPRISK,recharge,fcst_max_compliance_dd,0.0517786240985333,0.0517786240985333,1
+S6_UPRISK,recharge,fcst_stage4_mean_inflow,0.0075358560894579,0.0075358560894579,1
+S6_UPRISK,recharge,fcst_recovery_years,0.106734804442721,0.106734804442721,1
+S6_UPRISK,regional support,fcst_max_receptor_dd,0.0725224860222024,0.0725224860222024,1
+S6_UPRISK,regional support,fcst_max_compliance_dd,0.1765659184831051,0.1765659184831051,1
+S6_UPRISK,regional support,fcst_stage4_mean_inflow,0.0668503362774491,0.0668503362774491,1
+S6_UPRISK,regional support,fcst_recovery_years,0.0867378489858634,0.0867378489858634,1
+S6_UPRISK,receptor conductance,fcst_max_receptor_dd,0.2984361072846608,0.2984361072846608,1
+S6_UPRISK,receptor conductance,fcst_max_compliance_dd,0.1627906976744186,0.1627906976744186,1
+S6_UPRISK,receptor conductance,fcst_stage4_mean_inflow,0.4389433595332631,0.4389433595332631,1
+S6_UPRISK,receptor conductance,fcst_recovery_years,0.1123035768484281,0.1123035768484281,1
+S6_UPRISK,palaeochannel multiplier,fcst_max_receptor_dd,0.0042946276638846,0.0042946276638846,1
+S6_UPRISK,palaeochannel multiplier,fcst_max_compliance_dd,0.024876428166275,0.024876428166275,1
+S6_UPRISK,palaeochannel multiplier,fcst_stage4_mean_inflow,0.2893606676930557,0.2893606676930557,1
+S6_UPRISK,palaeochannel multiplier,fcst_recovery_years,0.3185169065385548,0.3185169065385548,1
+S6_UPRISK,backfill conductivity,fcst_max_receptor_dd,0.0692812575966291,0.0692812575966291,1
+S6_UPRISK,backfill conductivity,fcst_max_compliance_dd,0.10315209464387,0.10315209464387,1
+S6_UPRISK,backfill conductivity,fcst_stage4_mean_inflow,0.1153067012397699,0.1153067012397699,1
+S6_UPRISK,backfill conductivity,fcst_recovery_years,0.1815757305618463,0.1815757305618463,1

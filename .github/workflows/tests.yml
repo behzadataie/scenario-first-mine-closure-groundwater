@@ -1,0 +1,38 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+env:
+  PIP_DISABLE_PIP_VERSION_CHECK: "1"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Validate release hygiene and scientific files
+        run: python scripts/validate_repository.py
+      - name: Reproduce processed results
+        run: python scripts/reproduce_processed_results.py
+      - name: Regenerate data-driven figures
+        run: python scripts/generate_refined_figures.py
+      - name: Run tests
+        run: pytest -q
+      - name: Compile Python sources
+        run: python -m compileall -q src scripts tests

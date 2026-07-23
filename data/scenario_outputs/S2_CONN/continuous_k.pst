@@ -1,0 +1,131 @@
+pcf
+* control data
+             restart          estimation
+        70        22         4         0         8
+         1         1              single               point         1
+   2.000000E+01  -3.000000E+00   3.000000E-01   1.000000E-02        -7
+   1.000000E+01   1.000000E+01   1.000000E-03
+   1.000000E-01
+         3   1.000000E-02         3         3   1.000000E-02         3
+         0         0         0
+* singular value decomposition
+         1
+  10000000    1.000000E-06
+1
+* parameter groups
+PP_MAIN                relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller
+PP_LOWER               relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller
+PP_UPPER               relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller
+GLOBAL                 relative              1.0000000000E-02      0.0 switch                2.0000000000E+00      parabolic             1.0000000000E-05      5.0000000000E-01      smaller
+* parameter data
+backfill_mult         none                  factor                1.0000000000E+00      3.0000000000E-01      3.0000000000E+00      GLOBAL                1.0000000000E+00      0.0000000000E+00      1
+channel_mult          none                  factor                1.0000000000E+00      5.0000000000E-01      2.0000000000E+00      GLOBAL                1.0000000000E+00      0.0000000000E+00      1
+ghbcond_mult          none                  factor                1.0000000000E+00      5.0000000000E-01      1.5000000000E+00      GLOBAL                1.0000000000E+00      0.0000000000E+00      1
+pp_lower_001          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_002          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_003          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_004          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_005          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_006          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_007          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_008          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_009          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_010          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_011          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_012          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_013          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_014          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_lower_015          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_LOWER              1.0000000000E+00      0.0000000000E+00      1
+pp_main_001           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_002           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_003           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_004           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_005           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_006           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_007           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_008           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_009           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_010           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_011           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_012           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_013           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_014           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_015           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_016           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_017           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_018           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_019           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_020           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_021           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_022           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_023           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_024           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_025           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_026           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_027           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_028           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_029           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_030           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_031           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_032           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_033           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_034           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_main_035           none                  relative              0.0000000000E+00      -1.2000000000E+00     1.2000000000E+00      PP_MAIN               1.0000000000E+00      0.0000000000E+00      1
+pp_upper_001          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_002          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_003          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_004          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_005          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_006          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_007          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_008          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_009          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_010          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_011          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_012          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_013          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_014          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+pp_upper_015          none                  relative              0.0000000000E+00      -1.0000000000E+00     1.0000000000E+00      PP_UPPER              1.0000000000E+00      0.0000000000E+00      1
+rch_mult              none                  factor                1.0000000000E+00      5.0000000000E-01      1.5000000000E+00      GLOBAL                1.0000000000E+00      0.0000000000E+00      1
+riverbedk_mult        none                  factor                1.0000000000E+00      5.0000000000E-01      2.0000000000E+00      GLOBAL                1.0000000000E+00      0.0000000000E+00      1
+* observation groups
+forecast_compliance
+forecast_receptor
+forecast_recovery
+forecast_inflow
+head_compliance
+head_landholder
+head_receptor
+budget_mineinflow
+* observation data
+ fcst_max_compliance_dd  2.8826388527E+01      0.0000000000E+00      forecast_compliance
+   fcst_max_receptor_dd  1.6855862217E+00      0.0000000000E+00      forecast_receptor
+   fcst_recovery_years   2.5000000000E+01      0.0000000000E+00      forecast_recovery
+fcst_stage4_mean_inflow  5.2395818535E+04      0.0000000000E+00      forecast_inflow
+   h_compliance_005y     3.9548308442E+01      4.0000000000E+00      head_compliance
+   h_compliance_010y     2.8166054718E+01      4.0000000000E+00      head_compliance
+   h_compliance_015y     1.8511580365E+01      4.0000000000E+00      head_compliance
+   h_compliance_020y     1.5467096314E+01      4.0000000000E+00      head_compliance
+   h_compliance_025y     3.5597079956E+01      4.0000000000E+00      head_compliance
+   h_compliance_050y     4.3702793072E+01      4.0000000000E+00      head_compliance
+   h_compliance_120y     4.4102051037E+01      4.0000000000E+00      head_compliance
+   h_landholder_020y     4.0145953011E+01      4.0000000000E+00      head_landholder
+   h_landholder_120y     4.1632491274E+01      4.0000000000E+00      head_landholder
+   h_receptor_005y       4.1442200537E+01      4.0000000000E+00      head_receptor
+   h_receptor_010y       4.0810858399E+01      4.0000000000E+00      head_receptor
+   h_receptor_020y       4.0006256022E+01      4.0000000000E+00      head_receptor
+   h_receptor_050y       4.1639416647E+01      4.0000000000E+00      head_receptor
+   h_receptor_120y       4.1682309305E+01      4.0000000000E+00      head_receptor
+   q_mineinflow_005y     1.3767516973E+04      5.0000000000E-04      budget_mineinflow
+   q_mineinflow_010y     3.8148014496E+04      2.6213684073E-04      budget_mineinflow
+   q_mineinflow_015y     5.0765815031E+04      1.9698294992E-04      budget_mineinflow
+   q_mineinflow_020y     5.0352652769E+04      1.9859926836E-04      budget_mineinflow
+* model command line
+python forward_model.py
+* model input/output
+parvals.dat.tpl parvals.dat
+obs.dat.ins obs.dat
+++ies_num_reals(100)
+++ies_par_en(prior_parensemble.csv)
+++ies_save_binary(true)
+++ies_include_base(true)

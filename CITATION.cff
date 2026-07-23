@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the version-specific Zenodo release."
+title: "Scenario-first mine-closure groundwater uncertainty benchmark"
+type: software
+authors:
+  - family-names: "Ataie Ashtiani"
+    given-names: "Behzad"
+    orcid: "https://orcid.org/0000-0002-1339-3734"
+  - family-names: "Simmons"
+    given-names: "Craig T."
+    orcid: "https://orcid.org/0000-0001-5399-6292"
+version: "1.0.0"
+license: "BSD-3-Clause"
+abstract: >-
+  Source code, compact PESTPP-IES outputs, processed analysis tables,
+  and editable figures for a synthetic scenario-first mine-closure
+  groundwater uncertainty benchmark.
+keywords:
+  - groundwater
+  - groundwater modeling
+  - mine closure
+  - conceptual model uncertainty
+  - MODFLOW 6
+  - PESTPP-IES
+  - pilot points
+  - uncertainty analysis

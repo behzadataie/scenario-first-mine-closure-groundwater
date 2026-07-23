@@ -1,0 +1,8 @@
+{
+  "scenario_dir": ".",
+  "n_parameters": 70,
+  "n_observations": 22,
+  "num_prior": 300,
+  "num_posterior": 100,
+  "python_exe": "python"
+}

@@ -1,0 +1,40 @@
+{
+  "scenario_dir": ".",
+  "pst_file": "continuous_k.pst",
+  "phi_file": "continuous_k.phi.actual.csv",
+  "obs_ensemble_source": "continuous_k.1.obs.jcb",
+  "obs_ensemble_mode": "binary_jcb",
+  "obs_ensemble_iteration": 1,
+  "par_ensemble_source": "continuous_k.1.par.jcb",
+  "par_ensemble_mode": "binary_jcb",
+  "par_ensemble_iteration": 1,
+  "phi_history_rows": 2,
+  "n_posterior_realizations": 89,
+  "base_realization_present": true,
+  "n_forecasts": 4,
+  "forecast_summary_file": "stage_c_forecast_summary.csv",
+  "forecast_realizations_file": "stage_c_forecast_posterior_realizations.csv",
+  "parameter_summary_file": "stage_c_parameter_posterior_summary.csv",
+  "parameter_group_summary_file": "stage_c_parameter_group_summary.csv",
+  "pcs_file": "continuous_k.1.pcs.csv",
+  "pdc_file": "continuous_k.1.pdc.csv",
+  "target_map_keys": [
+    "fcst_max_receptor_dd",
+    "fcst_max_compliance_dd",
+    "fcst_recovery_years",
+    "fcst_stage4_mean_inflow"
+  ],
+  "forecast_columns_found": [
+    "fcst_max_compliance_dd",
+    "fcst_max_receptor_dd",
+    "fcst_recovery_years",
+    "fcst_stage4_mean_inflow"
+  ],
+  "final_phi_iteration": 1.0,
+  "final_phi_total_runs": 257.0,
+  "final_phi_mean": 34.4892,
+  "final_phi_std": 62.6558,
+  "final_phi_min": 1.45986e-17,
+  "final_phi_max": 539.358,
+  "final_phi_base": 1.45986e-17
+}

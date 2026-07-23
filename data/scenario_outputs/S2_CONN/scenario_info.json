@@ -1,0 +1,12 @@
+{
+  "scenario_code": "S2_CONN",
+  "scenario_title": "Connected transmissive pathway",
+  "scenario_family": "architecture",
+  "scenario_description": "A stronger and slightly wider transmissive corridor that connects the pit toward the receptor reach more directly.",
+  "mf6_exe": "mf6",
+  "python_exe": "python",
+  "source_stage_a_manifest": "not_included_in_compact_repository/stage_a_manifest_used.json",
+  "source_stage_b_qoi": "not_included_in_compact_repository/stage_b_qoi_summary.csv",
+  "source_stage_b_heads": "not_included_in_compact_repository/stage_b_heads_timeseries.csv",
+  "source_stage_b_budget": "not_included_in_compact_repository/stage_b_budget_timeseries.csv"
+}

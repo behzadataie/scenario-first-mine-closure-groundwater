@@ -1,0 +1,17 @@
+scenario,forecast,source_type,source_name,n,spearman_rho,abs_rho,p_value
+S0_BASE,fcst_max_compliance_dd,conditioning observation,h_compliance_020y,58,-0.618567166015565,0.618567166015565,2.283095488592845e-07
+S0_BASE,fcst_max_receptor_dd,conditioning observation,h_receptor_020y,58,-0.9605647666799964,0.9605647666799964,8.207151377301483e-33
+S0_BASE,fcst_recovery_years,conditioning observation,h_compliance_120y,58,0.4749350693085161,0.4749350693085161,0.0001652313555904
+S0_BASE,fcst_stage4_mean_inflow,conditioning observation,q_mineinflow_020y,58,0.9880648435817774,0.9880648435817774,3.452888690321738e-47
+S2_CONN,fcst_max_compliance_dd,conditioning observation,h_compliance_020y,38,-0.7544589123536493,0.7544589123536493,4.484085263543852e-08
+S2_CONN,fcst_max_receptor_dd,conditioning observation,h_receptor_020y,38,-0.9638910165225952,0.9638910165225952,2.812319898443676e-22
+S2_CONN,fcst_recovery_years,conditioning observation,q_mineinflow_020y,38,-0.5692992609156321,0.5692992609156321,0.0001914131434115
+S2_CONN,fcst_stage4_mean_inflow,conditioning observation,q_mineinflow_020y,38,0.9962796804902068,0.9962796804902068,6.262327616075515e-40
+S3_BUFF,fcst_max_compliance_dd,conditioning observation,h_compliance_020y,89,-0.9648110316649644,0.9648110316649644,2.980348445676967e-52
+S3_BUFF,fcst_max_receptor_dd,conditioning observation,h_receptor_020y,89,-0.995624787197821,0.995624787197821,2.342555531142841e-91
+S3_BUFF,fcst_recovery_years,conditioning observation,h_compliance_050y,89,-0.7887513923786265,0.7887513923786265,4.4211296446709776e-20
+S3_BUFF,fcst_stage4_mean_inflow,conditioning observation,q_mineinflow_020y,89,0.9961014640789922,0.9961014640789922,1.565854190942145e-93
+S6_UPRISK,fcst_max_compliance_dd,conditioning observation,h_compliance_020y,42,-0.8337249817680902,0.8337249817680902,7.177424109428959e-12
+S6_UPRISK,fcst_max_receptor_dd,conditioning observation,h_receptor_020y,42,-0.9907624989871162,0.9907624989871162,2.47463947665972e-36
+S6_UPRISK,fcst_recovery_years,conditioning observation,q_mineinflow_020y,42,-0.4499736854490365,0.4499736854490365,0.0027907302122304
+S6_UPRISK,fcst_stage4_mean_inflow,conditioning observation,q_mineinflow_020y,42,0.996110525889312,0.996110525889312,7.967406986654938e-44

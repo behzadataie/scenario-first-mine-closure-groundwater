@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+tokens*
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated outputs and workspaces
+outputs/
+workspaces/
+model_run/
+master/
+workers/
+*.tmp
+*.log
+*.rec
+*.rei
+*.lst
+
+# Large model binaries and executables
+*.hds
+*.cbc
+*.bud
+*.grb
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Private author and review material
+private/
+review/
+submission/
+manuscript_drafts/
+response_letters/
+*.docx
+*.pdf
+*.zip
+*.7z

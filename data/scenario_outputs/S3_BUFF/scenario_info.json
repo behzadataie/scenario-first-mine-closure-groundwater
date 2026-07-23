@@ -1,0 +1,29 @@
+{
+  "scenario_code": "S3_BUFF",
+  "scenario_title": "Buffered / barrier pathway",
+  "scenario_family": "architecture",
+  "scenario_description": "A low-K barrier corridor intercepts the pit-to-receptor path and the receptor reach is slightly less hydraulically open.",
+  "scenario_modifiers": {
+    "barrier_enabled": true,
+    "barrier_xmin_m": 7100.0,
+    "barrier_xmax_m": 8300.0,
+    "barrier_center_y_m": 4150.0,
+    "barrier_halfwidth_m": 260.0,
+    "barrier_layers_zero_based": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "barrier_kh_m_per_d": 0.02,
+    "barrier_kvkh": 0.05,
+    "riverbed_k_m_per_d": 0.02
+  },
+  "mf6_exe": "mf6",
+  "python_exe": "python",
+  "source_stage_a_manifest": "not_included_in_compact_repository/stage_a_manifest.json",
+  "source_stage_b_qoi": "not_included_in_compact_repository/stage_b_qoi_summary.csv",
+  "source_stage_b_heads": "not_included_in_compact_repository/stage_b_heads_timeseries.csv",
+  "source_stage_b_budget": "not_included_in_compact_repository/stage_b_budget_timeseries.csv"
+}

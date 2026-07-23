@@ -1,0 +1,17 @@
+scenario,forecast,dominant_group,dominant_max_abs_rho,second_group,second_max_abs_rho,backfill_max_abs_rho,n_retained
+S0_BASE,fcst_max_compliance_dd,lower pilot points,0.2598357377956874,main pilot points,0.2413177889199914,0.0977267833523024,58
+S0_BASE,fcst_max_receptor_dd,upper pilot points,0.3868159586576025,main pilot points,0.3412285828539789,0.0089513673136669,58
+S0_BASE,fcst_recovery_years,main pilot points,0.4257308075493788,upper pilot points,0.3442051553196274,0.0065798262626374,58
+S0_BASE,fcst_stage4_mean_inflow,main pilot points,0.2565751022793688,lower pilot points,0.2297517610507859,0.066412378110677,58
+S2_CONN,fcst_max_compliance_dd,main pilot points,0.385709596235912,upper pilot points,0.2080096290622606,0.0480358901411532,38
+S2_CONN,fcst_max_receptor_dd,upper pilot points,0.4255388992231098,main pilot points,0.2353649195754459,0.1244118612539665,38
+S2_CONN,fcst_recovery_years,main pilot points,0.4625340545897589,lower pilot points,0.2779120203498726,0.0639209164086942,38
+S2_CONN,fcst_stage4_mean_inflow,lower pilot points,0.3395338658496553,main pilot points,0.2929204508151876,0.1044972097603676,38
+S3_BUFF,fcst_max_compliance_dd,main pilot points,0.3024855294518216,recharge,0.2592611508341845,0.0519237316990126,89
+S3_BUFF,fcst_max_receptor_dd,receptor conductance,0.4417092271024856,upper pilot points,0.3404153898535921,0.0880149812734082,89
+S3_BUFF,fcst_recovery_years,lower pilot points,0.2885133655368266,upper pilot points,0.2833037149870631,0.1745790804493274,89
+S3_BUFF,fcst_stage4_mean_inflow,lower pilot points,0.2898025195778005,upper pilot points,0.2487231869254341,0.1724378617637045,89
+S6_UPRISK,fcst_max_compliance_dd,main pilot points,0.3421926910299003,upper pilot points,0.3306863301191152,0.10315209464387,42
+S6_UPRISK,fcst_max_receptor_dd,receptor conductance,0.2984361072846608,upper pilot points,0.2460902682116522,0.0692812575966291,42
+S6_UPRISK,fcst_recovery_years,main pilot points,0.3753015100088719,lower pilot points,0.3196137859518001,0.1815757305618463,42
+S6_UPRISK,fcst_stage4_mean_inflow,receptor conductance,0.4389433595332631,lower pilot points,0.3397617697107203,0.1153067012397699,42

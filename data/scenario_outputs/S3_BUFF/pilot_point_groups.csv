@@ -1,0 +1,4 @@
+group_name,target_layers_csv,spacing_m,margin_m,sigma,corr_len_m,parlbnd,parubnd
+PP_UPPER,0,2400.0,1200.0,0.35,2200.0,-1.0,1.0
+PP_MAIN,1;2;3;4,1600.0,800.0,0.45,1800.0,-1.2,1.2
+PP_LOWER,5;6;7,2200.0,1100.0,0.35,2600.0,-1.0,1.0
